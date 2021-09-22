@@ -52,6 +52,9 @@ Other important thing to take care of
 
 If you follow above standard while creating project in react-native. Your project will  be well maintained.
 For more details you can view any of the below link.
+
 https://gilshaan.medium.com/react-native-coding-standards-and-best-practices-5b4b5c9f4076
+
 https://thoughtbot.com/blog/best-practices-while-developing-a-react-native-app
+
 https://practices.credencys.com/reactnative/Naming_Conventions/Components_and_Files
